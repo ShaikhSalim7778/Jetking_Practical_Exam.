@@ -1,0 +1,21 @@
+Node.js and NPM
+
+
+Node.js
+
+Node.js is an open-source, cross-platform runtime envoriment that allows you to run javaScript code outside of a web browser,
+making is possible to use javascript for server side scripting and build scalable network aplication.
+
+Node.js provide an event-driven architevture and non blocking I/O model, which means can handle a large number of concurrent connection efficiently.
+This makes it well suited for real-time applacition, such as chat application, streaming or web servers.
+
+
+NPM 
+
+NPM is a Node Package Manager, is the defaut package manager for Node.js.
+It is cammand line tool that enables you devlopers to discover, install and manage software package and dependencies for their node.js project.
+It provide a conveit way to shere and reuse code among the node.js commuinty.
+
+
+in summary, Node.js is allows runtime envoriment that allows you to run javascript on the server side,
+while npm is the package manager that helps you manage and  install the libraries and tool needed for your Node.js Projects.
